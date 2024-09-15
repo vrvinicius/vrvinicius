@@ -15,6 +15,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrvinicius&show_icons=true&theme=github_dark_dimmed)-->
+
+
 
 
           
