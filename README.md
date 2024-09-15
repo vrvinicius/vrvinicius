@@ -1,14 +1,12 @@
 ### Olá, eu sou o Vinícius!
 
-  📊 Analista de Dados no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
+  ##### 📊 Analista de Dados no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
 
-  💻 [Residente em IA](https://paranacooperativo.coop.br/noticias-inovacao/divulgados-os-aprovados-para-o-programa-de-residencia-em-inteligencia-artificial) no Senai/PR<br/>
+  ##### 💻 [Residente em IA](https://paranacooperativo.coop.br/noticias-inovacao/divulgados-os-aprovados-para-o-programa-de-residencia-em-inteligencia-artificial) no Senai/PR<br/>
 
-  🎓 Economista pela Universidade Estadual do Oeste do Paraná<br/>
+  ##### 🎓 Economista pela Universidade Estadual do Oeste do Paraná<br/>
 
-  📈 Especialista em Análise e Gestão Estratégica de Dados pela PUC Minas<br/>
-  
-  
+  ##### 📈 Especialista em Análise e Gestão Estratégica de Dados pela PUC Minas<br/>  
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,git)](https://skillicons.dev)
 <!--![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
