@@ -16,7 +16,7 @@ Economista pela Universidade Estadual do Oeste do Paraná com especialização e
 
 Há mais de 3 anos disponibilizando informações para tomada de decisão e ampliando perspectivas por meio dos dados e da tecnologia utilizando **Excel, Power BI, Denodo e SQL**<br/>
 
-Buscando aplicar meu conhecimento em análise de dados para criar pipelines eficientes e escaláveis, possibilitando insights melhores e de maior impacto como *Analytics Engineer*
+Buscando aplicar meu conhecimento em análise de dados para criar pipelines eficientes e escaláveis, valorizando os dados e possibilitando insights melhores e de maior impacto como *Analytics Engineer*
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,git)](https://skillicons.dev)
 
