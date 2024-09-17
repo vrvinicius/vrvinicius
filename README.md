@@ -1,14 +1,25 @@
-### Olá, eu sou o Vinícius!
+## Olá, me chamo Vinícius!
 
-  ##### 📊 Analista de Dados no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
+  <!--##### 📊 Analista de Dados no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
 
   ##### 💻 [Residente em IA](https://paranacooperativo.coop.br/noticias-inovacao/divulgados-os-aprovados-para-o-programa-de-residencia-em-inteligencia-artificial) no Senai/PR<br/>
 
   ##### 🎓 Economista pela Universidade Estadual do Oeste do Paraná<br/>
 
-  ##### 📈 Especialista em Análise e Gestão Estratégica de Dados pela PUC Minas<br/>  
+  ##### 📈 Especialista em Análise e Gestão Estratégica de Dados pela PUC Minas<br/>-->
+
+**Analista de Dados** no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
+
+[Residente em IA](https://paranacooperativo.coop.br/noticias-inovacao/divulgados-os-aprovados-para-o-programa-de-residencia-em-inteligencia-artificial) no Senai/PR<br/>
+
+Economista pela Universidade Estadual do Oeste do Paraná com especialização em Gestão e Análise Estratégica de Dados pela PUC Minas<br/>
+
+Há mais de 3 anos disponibilizando informações para tomada de decisão e ampliando perspectivas por meio dos dados e da tecnologia utilizando **Excel, Power BI, Denodo e SQL**<br/>
+
+Buscando aplicar meu conhecimento em análise de dados para criar pipelines eficientes e escaláveis, possibilitando insights melhores e de maior impacto como *Analytics Engineer*
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,git)](https://skillicons.dev)
+
 <!--![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
