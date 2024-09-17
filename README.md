@@ -18,7 +18,12 @@ Há mais de 3 anos disponibilizando informações para tomada de decisão e ampl
 
 Buscando aplicar meu conhecimento em análise de dados para criar pipelines eficientes e escaláveis, valorizando os dados e possibilitando insights melhores e de maior impacto como *Analytics Engineer*
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,git)](https://skillicons.dev)
+<div style="display: inline_block"><br>
+  <img align="center" alt="vini-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="vini-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="vini-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="vini-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">  
+</div>        
 
 ##
 <div>
@@ -38,6 +43,8 @@ Buscando aplicar meu conhecimento em análise de dados para criar pipelines efic
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrvinicius&show_icons=true&theme=github_dark_dimmed)-->
+
+<!--[![My Skills](https://skillicons.dev/icons?i=py,postgres,git)](https://skillicons.dev)-->
 
 
 
