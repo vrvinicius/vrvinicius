@@ -8,7 +8,7 @@
 
   ##### 📈 Especialista em Análise e Gestão Estratégica de Dados pela PUC Minas<br/>-->
 
-**Analista de Dados** no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
+`Analista de Dados` no [Sicredi](https://www.sicredi.com.br/site/sobre-nos/)<br/>
 
 [Residente em IA](https://paranacooperativo.coop.br/noticias-inovacao/divulgados-os-aprovados-para-o-programa-de-residencia-em-inteligencia-artificial) no Senai/PR<br/>
 
