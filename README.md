@@ -14,9 +14,9 @@
 
 Economista pela Universidade Estadual do Oeste do Paraná com especialização em Gestão e Análise Estratégica de Dados pela PUC Minas<br/>
 
-Há mais de 3 anos disponibilizando informações para tomada de decisão e ampliando perspectivas por meio dos dados e da tecnologia utilizando `Excel, Power BI, Denodo e SQL`<br/>
+Há 7 anos atuando no mercado financeiro, sendo mais de 3 anos dedicados a disponibilizar informações para tomada de decisão e ampliar perspectivas por meio dos dados e da tecnologia utilizando `Excel, Power BI, Denodo e SQL`<br/>
 
-Buscando aplicar meu conhecimento em análise de dados para criar pipelines robustos e eficientes, que valorizem os dados e possibilitem insights melhores e de maior impacto como `Analytics Engineer`
+Buscando aplicar meu conhecimento em análise de dados e em negócios para criar pipelines de dados eficientes, que valorizem os dados e possibilitem insights melhores e de maior impacto como `Analytics Engineer`
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
