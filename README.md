@@ -20,7 +20,7 @@ Há 7+ anos atuando no mercado financeiro, sendo mais de 3 anos dedicados a disp
 
 #### Para facilitar a navegação nos repositórios:
 
-`101`: prefixo para identificar repositórios criados para documentar o início da aprendizagem e exploração de algo novo.
+`101`: prefixo usado para identificar repositórios que documentam processos de aprendizagem e exploração de novos temas. Também pode ser utilizado como referência para consultas futuras.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
