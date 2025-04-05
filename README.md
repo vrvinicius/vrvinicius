@@ -22,12 +22,12 @@ Há 7+ anos atuando no mercado financeiro, sendo mais de 3 anos dedicados a disp
 
 `101`: prefixo usado para identificar repositórios que documentam processos de aprendizagem e exploração de novos temas. Também pode ser utilizado como referência para consultas futuras.
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="center" alt="vini-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="vini-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vini-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="vini-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">  
-</div>        
+</div>-->    
 
 ##
 <div>
